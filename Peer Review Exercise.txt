@@ -1,0 +1,37 @@
+Name: Jesse Riggins
+
+Date: 11/11/2017
+
+Peer’s project: Mason's ILS Z399 assignment 04 Image Puzzle, original can be found here: https://github.com/manabled/04-image-puzzle
+
+Mason never added me as a collaborator, so instead I copied his project and made a new repository.
+
+
+
+What is something you learned by reviewing your peer’s project?
+
+ - I actually learned a lot about my own train of thought as I walked through Mason's project and justified each change I made.
+
+What is something you saw in your peer’s project that you would like to apply to your own programming projects?
+
+ - While reading through Mason's code, I noticed the cause of several bugs from my Image Puzzle project. For example, the screen flashes black because screen.fill((0,0,0)) is in draw_puzzle.
+
+What suggestions would you have for your peer to improve his/her code?
+
+ - I would suggest to spend more time fixing bugs and making sure that the program runs well. The majority of my time was spent trying to get the project to work on my computer. 
+
+What could have been clearer or better commented?
+
+ - Everything was actually very clear, there was never a point where I didn't see what his code was trying to achieve.
+
+Was there anything in the code that was confusing to you? If so, what?
+
+ - As said above, everything was very clear. I do feel as if there may have been some problems with the translation from his computer to mine, for example he imports PIL and uses the image "C:\\Users\\mason\\OneDrive\\GitHub\\04-image-puzzle\\cream-disreali-gears.jpg" which is not on my computer or his GitHub repository.
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+ - He didn't change the README or the LICENSE at all from the original branch.
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+ - Aside from a few game-breaking bugs that wouldn't let me start the game (mostly having to do with changing the Square's image), everything worked very well with very few bugs.
